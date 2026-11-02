@@ -1,0 +1,13 @@
+{
+  "name": "insudept",
+  "version": "1.0.0",
+  "description": "Website for Insurance Department - Erbil Polytechnic University",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
